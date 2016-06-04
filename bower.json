@@ -1,0 +1,23 @@
+{
+  "name": "Angular-Controller",
+  "homepage": "https://github.com/Luisk955/Angular-Controller",
+  "description": "angular project with a controller",
+  "main": "index.html",
+  "keywords": [
+    "AngularJS"
+  ],
+  "authors": [
+    "Luis Carlos Del Valle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.6"
+  }
+}
